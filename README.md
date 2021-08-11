@@ -1,3 +1,3 @@
 # hello-world
-Primul edit din branchul readme-edits.
-Al doile edit din branchul readme-edits
+Primul edit din branchul.
+Al doile edit din branchul.
