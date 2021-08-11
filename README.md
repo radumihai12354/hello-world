@@ -1,2 +1,3 @@
 # hello-world
-GitHub Hello-World Guide
+Primul edit din branchul.
+Al doile edit din branchul.
