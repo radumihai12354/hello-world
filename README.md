@@ -1,3 +1,2 @@
-# hello-world
-Primul edit din branchul.
-Al doile edit din branchul.
+www.gsp.ro
+pcgarage.ro
